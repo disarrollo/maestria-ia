@@ -15,7 +15,6 @@ Human interaction recognition (HIR) is challenging due to multiple humans’ inv
 
 
 ## Online Human Interaction Detection and Recognition With Multiple Cameras (2017)
-### SIN ACCESO AL ARTICULO
 
 S. Motiian, F. Siyahjani, R. Almohsen and G. Doretto, "Online Human Interaction Detection and Recognition With Multiple Cameras," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 27, no. 3, pp. 649-663, March 2017, doi: 10.1109/TCSVT.2016.2606998.
 
