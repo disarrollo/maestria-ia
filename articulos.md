@@ -5,6 +5,8 @@
 ## A Multi-Stream Sequence Learning Framework for Human Interaction Recognition (2022)
 ### SIN ACCESO AL ARTICULO
 
+Proponen usar una red que localiza las articulaciones humanas usando estimación de pose + una red que extare características discriminativas espaciotemporales para luego pasarlas a una capa que clasifica las interacciones humanas.
+
 U. Haroon et al., "A Multi-Stream Sequence Learning Framework for Human Interaction Recognition," in IEEE Transactions on Human-Machine Systems, vol. 52, no. 3, pp. 435-444, June 2022, doi: 10.1109/THMS.2021.3138708.
 
 https://ieeexplore.ieee.org/abstract/document/9695398
